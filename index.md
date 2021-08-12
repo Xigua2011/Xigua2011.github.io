@@ -20,6 +20,8 @@ Super Aliens is a platform game about being and alien and trying to finish the o
 
 # About Me
 
+I am 10 years old and have been doing coding since I was 8 with my teacher. My hobbies are gaming, music and experiencing different activities with my family. I am English and Chinese, but I love visiting different countries. 
 
+My favourite subjects are maths, music and art.
 
 ![My hamster](Toffee.jpg) Here is a picture of my hamster that keeps me company!! :-)
