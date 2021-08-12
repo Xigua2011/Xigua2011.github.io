@@ -11,7 +11,15 @@ Pirate Wreckers is a game about being a pirate and trying to destroy the other s
 
 ## Super Aliens
 
-* [Super Aliens](https://xigua2011.github.io/Annis_platformer/) platform game
-* [Super Aliens](https://play.google.com/store/apps/details?id=org.godotengine.anniwang) mobile phone version
+![Screenshot](Super_Aliens1.jpg)
+
+Super Aliens is a platform game about being and alien and trying to finish the obstacle courses. It saves your highscore and your fastest time.
+
+* [Web version](https://xigua2011.github.io/Annis_platformer/)
+* [Android mobile version](https://play.google.com/store/apps/details?id=org.godotengine.anniwang)
+
+# About Me
+
+
 
 ![My hamster](Toffee.jpg) Here is a picture of my hamster that keeps me company!! :-)
